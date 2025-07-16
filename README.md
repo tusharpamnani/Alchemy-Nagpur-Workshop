@@ -55,8 +55,8 @@ If you want to create and mint your own NFT, follow the instructions in [NFT/REA
 
 1. **Clone the repository:**
    ```shell
-   git clone <your-repo-url>
-   cd my-nft
+   git clone https://github.com/tusharpamnani/Alchemy-Nagpur-Workshop
+   cd Alchemy-Nagpur-Workshop
    ```
 2. **NFT Project:**
    - Go to the `NFT` directory and follow the [NFT/README.md](./NFT/README.md).
