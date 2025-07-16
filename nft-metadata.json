@@ -1,0 +1,12 @@
+{
+    "attributes" : [{
+        "trait_type" :  "Event",
+        "value": "Ship_It_On_Story"
+    }, {
+        "trait_type": "City",
+        "value": "Nagpur"
+    }],
+    "description": "This was an event by CentralDAO in Nagpur",
+    "image": "https://gateway.pinata.cloud/ipfs/bafybeib2c52isjla2vwdbqicqmbhiklp7v3ih5hwiswqkosrpndcxlcgy4",
+    "name": "Tushar"
+}
